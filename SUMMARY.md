@@ -4,4 +4,5 @@
 * [Die Singularität](die_singularitat.md)
 * Die Finsternis
 * Spielregeln
+* Charaktere
 
