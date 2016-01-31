@@ -1,7 +1,7 @@
 # Grundlagen
 Ein Spiel wie dieses fällt dir sicherlich nicht in die Hände wenn du noch nie zuvor ein Rollenspiel gespielt hast. *Eclipse Fate * basiert allerdings auf **Fate** und dies wiederum funktioniert ein einigen Stellen doch deutlich anders als du es aus anderen Spielen kennen magst. Und falls du andererseits schon Fate-Erfahrung hast, die Variante von Fate auf der Eclipse Fate basiert dürfte auch für dich einige Überraschungen bereit halten. Am besten liest du dieses Kapitel deshalb so oder so. Du kannst es danach auf prima als Leitfaden verwenden um anderen die Kernmechaniken des Spiels zu vermitteln.
 Bei Eclipse Fate erzählt eure Gruppe, bestehend aus einem Spielleiter und üblicherweise drei bis fünf Spielern gemeinsam eine Geschichte. Dabei geht es weder darum die (gerade in unserem Fall sehr komplexe) Spielwelt möglichst genau zu simulieren noch darum ein brettspielartiges Gewinnergefühl bei den Spielern zu erzeugen (wie dies zum Beispiel viele Vertreter des Dungeon Crawlings tun).
-Charaktere bei Eclipse Fate sind extrem *kompetent*. Jeder Spieler übernimmt die Rolle eines Agenten der geheimen Organisation **Firewall** und die nimmt nun einmal nur diejenigen in ihre Reihen auf die sich durch ausgeprägtes Talent und umfassendes Wissen auszeichnen. 
+Charaktere bei Eclipse Fate sind extrem *kompetent*. Jeder Spieler übernimmt die Rolle eines Agenten der geheimen Organisation **Firewall** und die nimmt nun einmal nur diejenigen in ihre Reihen auf die sich durch ausgeprägtes Talent und umfassendes Wissen auszeichnen. Auf der anderen Seite bedeutet dies aber auch das die Fähigkeiten der Charaktere sich nur langsam verbessern und die Charakterentwicklung sich viel eher in der immer tieferen Einbettung der Charaktere in die Hintergrundwelt zeigt.
 Und da die Agenten, abgesehen von ihren Teamkollegen, größtenteils auf sich allein gestellt sind müssen sie oft genug **proaktiv** handeln - und dies gilt damit auch für die Spieler: Sie sind es die die Geschichte aktiv voran treiben und dies nicht selten genug in eine Richtung die nicht unbedingt derjenigen entspricht die der Spielleiter geplant hat. 
 Hinzu kommt noch die Tatsache dass die Agenten einer Firewallzelle natürlich auch ein *normales* Leben führen. Sie alle besitzen ein soziales Umfeld, eine politische Überzeugung und eigene Ziele. Und demzufolge sind die Geschichten die um die Agenten herum entstehen gespickt mit **Spannung und Drama**.
 
@@ -41,3 +41,87 @@ Und auch als Spieler solltest du dich natürlich an ein paar Richtlinien halten:
  * *Spinne die Geschichte weiter.* Nimm bei jeder Entscheidung die du triffst eine Autorenhaltung ein und Frage dich: Was wäre das coolste/witzigste/dramatischte was ich jetzt machen könnte. 
 
 Und sowohl für Spieler wie auch für Spielleiter gilt natürlich: *Ihr alle seid in der Pflicht dafür zu Sorgen dass das Spiel als ganzes ein großer Spaß für alle wird*.
+
+## Der Charakterbogen
+
+Auf deinem Charakterbogen findest du alle wesentlichen Werte die du zum Spielen deines Charakters brauchst.
+
+### Aspekte
+
+Aspekte beschreiben hervorstechende Merkmale deines Charakters und damit warum er überhaupt in den gespielten Geschichten in Erscheinung tritt. Aspekte kannst du durch den Einsatz von Fatepunkten *nutzen* um einen Vorteil zu erlangen oder jemand anders kann deine Aspekte *reizen* um dich zu bestimmten Handlungen zu verleiten. 
+
+Ein Aspekt beschreibt deine *Muse*, eine künstliche Intelligenz die dich bei deinen täglichen Aufgaben unterstützt und dich vor der ständig auf dich einstürzenden Informationsflut bewahrt. Ein weiterer ergibt sich aus deinem *Morph*, der (meist) körperlichen Hülle in der sich das Bewusstsein deines Charakters momentan befindet, Die drei weiteren Aspekte des Charakters ergeben sich aus seinen Fertigkeitspaketen.
+
+### Fertigkeitspakete
+
+Jeder Charakter verfügt über drei Fertigkeitspakete die sich aus seinem *Hintergrund*, seiner *Fraktion* und seinem *Fokus* ergeben. Diese drei Pakete wählst du während der Charaktererschaffuung. Passend zu jedem Paket legst Du dann auch einen Aspekt deines Charakters fest der seine Rolle oder seinen Ruf im jeweiligen Milieu genauer beschreibt. 
+
+Die durch die einzelnen Pakete festgelegten Fertigkeiten benutzt du während des Spiels um Aktionen mit deinem Charakter auszuführen.
+
+### Tricks
+
+Tricks sind besondere Talente die du durch die Wahl eines Morphs erhältst. Im Normalfall verleihen sie dir Eigenschaften die du als normaler Mensch nicht so einfach haben könntest oder sie verbessern deine Fertigkeiten in speziellen Situationen.
+
+### Konsequenzen
+
+Nicht immer geht man als Sieger aus einer Auseinandersetzung hervor und muss für die (nicht unbedingt selbst) getroffenen Entscheidungen entsprechende Konsequenzen tragen. Konsequenzen akzeptierst du während des Spiels um in einer Spielszene bleiben zu können (anstatt dich blutend oder gedemütigt zu verstecken oder in die Fänge des Gegners zu geraten) und sie funktionieren ähnlich wie die anderen Aspekte deines Charakters. Mit der Zeit kannst Du natürlich versuchen Konsequenzen auch wieder los zu werden, insbesondere da du nur begrenzt viele Konsequenzen nehmen kannst.
+
+### Ausrüstung
+
+Eclipse Fate hält nicht jeden Ausrüstungsgegenstand deines Charakters fest. Viele Dinge des alltäglichen Gebrauchs sowie alles was du zum Einsatz deiner Fertigkeiten benötigst trägt der Charakter selbstverständlich bei sich. Besondere Gegenstände jedoch, die dich mit zusätzlichen Aspekten und Tricks ausstatten können, notierst du hier als Ausrüstung. 
+
+## In Aktion treten
+
+Immer wenn du etwas erreichen möchtest trotz widriger Umstände oder weil dich jemand daran hindern möchte kommen *Aktionen* ins Spiel. Du wendest eine Fertigkeit an und wenn du besser bist als dein Kontrahent (in der Regel der Spielleiter, aber natürlich spricht nichts dagegen dass auch Spieler gegeneinander antreten) kannst du dich durchsetzen und dein Ziel erreichen. Wir unterscheiden dabei zwischen drei Aktionstypen:
+ * **Überwinden** verwendest du um ein Hindernis oder einen Gegner zu überwinden oder etwas unter großem Druck zu erledigen. Du gibst vorher an was du erreichen möchtest und wenn dir die Aktion gut genug gelingt dann erreichst du dieses Ziel.
+ * **Vorteil schaffen** ist eine andere sehr wichtige Aktion die es dir gestattet neue Aspekte und damit neue Fakten in der Spielwelt zu schaffen die du und andere nach den üblichen Regeln für Aspekte nutzen können. Dies können kleinere Details sein (wie zum Beispiel den Gegner zu blenden und damit zu behindern damit du selbst oder ein Verbündeter ihn um Anschluß einfacher *überwinden* kann) oder auch das Festlegen völlig neuer Spielweltfakten wie zum Beispiel die Existenz einer geheimen Raumstation im Asteroidengürtel.
+ * Du kannst dich auch den Aktionen eines anderen **entgegen Stellen** und ihn so behindern. Auch gegen das Schaffen von Vorteilen darf diese Aktion eingesetzt werden und dies erlaubt dir, wenn du gut genug bist, die Aspekte des Gegners für die eigenen Zwecke zu nutzen.
+
+### Würfel
+
+Es wäre natürlich etwas langweilig nur die Fertigkeitswerte von Charakteren gegeneinander zu stellen. Charaktere addieren deshalb noch das Ergebnis eines Würfelwurfs mit vier Fatewürfeln auf diesen Wert um das Resultat einer Aktion zu bestimmen (Der Spielleiter kann dies für seine Nichtspielercharaktere ebenfalls tun darf aber jederzeit auch auf einen Wurf verzichten). Da die Würfel ein Ergebnis von ---- bis ++++ mit allen Zwischenwerten liefern können kann dies den Ausgang einer Aktion natürlich erheblich beeinflussen.
+
+### Die Fate-Leiter
+
+Die Fate-Leiter beschreibt sowohl mit Zahlen als auch mit Adjektiven das Ergebnis eines Wurfs (und auch die Stufe einer Fertigkeit).
+
+|+8|Legendär|
+|+7|Episch|
+|+6|Fantastisch|
+|+5|Hervorragend|
+|+4|Großartig|
+|+3|Gut|
+|+2|Ordentlich|
+|+1|Durchschnittlich|
+|0|Mittelmäßig|
+|-1|Ärmlich|
+|-2|Fürchterlich|
+
+Es ist euch überlassen ob ihr Ergebnisse eher durch ein Adjektiv oder eine Zahl beschreiben wollt. Für die Erzählung bietet es sich natürlich an das Adjektiv zu benutzen, aber dies ist kein Muss.
+
+*Die Ergebnisse können natürlich auch außerhalb der angegebenen Skala liegen. Das ist völlig in Ordnung aber in der Praxis so selten dass ihr hier auch eine eigene Beschreibung für ein derartig grottiges oder herausragendes Ergebnis benutzen könnt.*
+
+### Interpretation der Ergebnisse
+
+Im Normalfall versucht man immer mit dem eigenen Wert den des Gegenspielers zu übertreffen. Beide Ergebnisse werden dann miteinander verrechnet und ergeben ein Endergebnis für den handelnden Charakter. Ein mittelmäßiges (0) Ergebnis bedeutet im Allgemeinen ein *Unentschieden* das kaum oder gar keine Auswirkungen hat. Ein durchschnittliches (+1) oder besseres Ergebnis bedeutet einen *Erfolg* mit dem man einen Vorteil schafft oder ein Hindernis überwindet. Ein gutes (+3) oder besseres Ergebnis ist sogar ein *voller Erfolg* und hat je nach durchgeführter Aktion weitere Effekte. Ein ärmliches (-1) oder schlechteres Ergebnis ist ein klarer Fehlschlag der die Situation für den Charakter üblicherweise verkompliziert oder ihn sogar *ausschaltet* so dass er in der aktuellen Szene nicht mehr handeln darf. 
+
+Im Spiel rechnen wir hier natürlich meist mit Zahlenwerten und nennen die Zahl die sich für den eine Probe gewinnenden Charakter ergibt einfach *Erfolge*. Im Falle von einem Ergebnis von +4 hätte der Charakter also 4 Erfolge erzielt.
+
+## Fatepunkte
+
+Fatepunkte sind deine wichtigste Resource im Spiel und können relativ vielseitig eingesetzt werden, zum Beispiel um bestimmte *Tricks* über die ein Charakter verfügt zu aktivieren. Ihr mit Abstand wichtigster Einsatz ist jedoch das aktivieren und reizen von Aspekten.
+
+### Aspekte aktivieren
+
+Du kannst nach einem Wurf solange ihr euch noch nicht auf ein Endergebnis geeinigt habt einen Fatepunkt ausgeben um einen Aspekt zu *aktivieren*. Dies erlaubt entweder erneut zu würfeln oder dein eigenes Ergebnis um zwei Stufen auf der Fate-Leiter zu verschieben (also +2 zu addieren). Dabei bist du nicht auf deine eigenen Aspekte beschränkt, sondern kannst auch Aspekte der Umgebung, des Hintergrunds oder die Aspekte deines Gegners benutzen. Dein Kontrahent kann natürlich genauso handeln. Ein endgültiges Ergebnis steht erst fest wenn beide Parteien keine Aspekte mehr aktivieren wollen oder (mangels Fatepunkten) können.
+
+Um einen Aspekt aktivieren zu können musst du ihn allerdings in deine Erzählung einbauen und klar machen warum er dir in dieser konkreten Situation hilft. Und du darfst einen Aspekt nur einmal pro Wurf anwenden (aber natürlich innerhalb eines Wurfs auf beliebig viele unterschiedliche Aspekte zurückgreifen).
+
+
+### Aspekte reizen
+
+Neben der Aktivierung kannst du einen Aspekt deines Kontrahenten auch *reizen*. Du gibst dafür deinem Gegner einen Fatepunkt den dieser seinem eigenen Vorrat hinzu fügt. Das Reizen sorgt entweder dafür dass der Gegner zu einer bestimmten Handlung gezwungen wird oder dass die Handlung die er eigentlich geplant hatte fehlschlägt. Niemand wird dabei dazu gezwungen einen solchen angebotenen Fatepunkt anzunehmen. Du kannst dich, wenn jemand versucht dich zu reizen, auch loskaufen. In diesem Fall nimmst du den angebotenen Fatepunkt nicht an sondern zahlst demjenigen stattdessen einen Punkt aus deinem eigenen Vorrat - damit ist die Sache dann vom Tisch.
+
+## Die Singularität wird zur Wirklichkeit
+
+Damit weißt du jetzt alles was du prinzipiell zum Spielen von Eclipse Fate wissen musst. Wenn dir jetzt noch jemand einen aufgefüllten Charakterbogen in die Hand drückt bist du startbereit. Die folgenden Kapitel werden jedoch auch die Erschaffung  von Charakteren behandeln und alle hier grundlegend vorgestellten Konzepte tiefgreifender behandeln.
